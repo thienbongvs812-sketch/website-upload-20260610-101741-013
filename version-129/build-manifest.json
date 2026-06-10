@@ -1,0 +1,9 @@
+{
+  "site": "日韩影视资源",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "html_pages": 2015,
+  "uses_top_level_cover_range": "1.jpg 到 150.jpg",
+  "hls_source_count": 20
+}

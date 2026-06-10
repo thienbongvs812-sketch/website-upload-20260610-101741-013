@@ -1,0 +1,20 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "video_sources_extracted_from_original_js": 150,
+  "cover_numbers_from_original_js": 150,
+  "category_counts": {
+    "guochan-haoju": 200,
+    "gaoqing-quanji": 200,
+    "rebomenhu": 200,
+    "dianying-pianku": 200,
+    "dianshiju-pianku": 200,
+    "koubei-jiazuo": 200,
+    "niandu-tuijian": 200,
+    "duoleixing-yingshi": 200,
+    "zhuiju-rukou": 200,
+    "zonghe-gengxin": 200
+  },
+  "site_name": "国产好剧"
+}
